@@ -1,6 +1,6 @@
 # React Context API Project
 
-This project was solely made by the intent to learn, understand and strengthen React Context API fundamentals.
+This project was solely made by the intent to learn, understand and strengthen React Context API fundamentals. Thanks to insanely helpful, amazing and commendable my teacher [Sir. Hitesh Choudhary](http://github.com/hiteshchoudhary/)
 
 ## Leaarnings:
 1. Creating React Context object for Global State Management. It simply means a creating a Global Object whose properties will be accessible to its children (nested) components.  -`context/UserContext.js`
